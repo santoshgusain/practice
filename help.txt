@@ -1,0 +1,4 @@
+git branching tutorial
+
+git branch "new branch name"    // this command will create a new branch
+git checkout "branch name"    // this command will switch to the new branch
