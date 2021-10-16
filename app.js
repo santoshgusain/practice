@@ -1,6 +1,8 @@
 console.log("welcome to this tutorial");
 console.log("welcome to this tutorial");
 console.log("modified this line number 4");
+console.log("This is the new line which i have added");
+
 console.log("modified this line number 112");
 console.log("modified this line number 6");
 console.log("modified this line number 7");
